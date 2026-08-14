@@ -1,0 +1,11 @@
+noun1 = input("Give me a noun.")
+pnoun1 = input("Give me a plural noun.")
+noun2 = input("Give me another noun.")
+place = input("Give me a place.")
+adjective = input("Give me an adjective.")
+
+print("Did you know I have a pet " + noun1 + "?")
+print("He likes to run around and play with all the " + pnoun1 + ".")
+print("One morning, I woke up and he was wearing a " + noun2 + " for a hat!")
+print("I especially like to take him to the " + place)
+print("because he shows off his " + adjective + " side.")
