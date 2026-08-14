@@ -1,0 +1,1 @@
+#To search for words or letters, you can check strings using the "in", or "not in" command when making a new Variable
