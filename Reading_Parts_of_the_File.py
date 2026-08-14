@@ -1,0 +1,5 @@
+file = open("Parts_of_a_File.txt", "r")
+data = file.read()
+words = data.split()
+print(len(words))
+file.close()
